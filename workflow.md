@@ -1,5 +1,7 @@
 # Project Structure
+Problem Statement
 
+Many organizations and individuals face challenges in managing their daily operations efficiently due to manual processes, scattered data, and lack of a centralized system. This project aims to develop a simple, user-friendly web application that digitizes these processes, improves data management, and provides a seamless experience for users.
 ## Repository Structure
 
 ```text
